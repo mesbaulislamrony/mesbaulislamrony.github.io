@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "d0975326-7b43-479e-a109-cb818abec62d",
+        "name": "Bakery",
+        "images": [
+            "/public/images/chocolate-mousse-torte-cake.png"
+        ]
+    },
+    {
+        "_id": "d0975326-7b43-479e-a109-cb818abec62d",
+        "name": "Dairy",
+        "images": [
+            "/public/images/chocolate-mousse-torte-cake.png"
+        ]
+    },
+    {
+        "_id": "d0975326-7b43-479e-a109-cb818abec62d",
+        "name": "Frozen",
+        "images": [
+            "/public/images/chocolate-mousse-torte-cake.png"
+        ]
+    }
+]
