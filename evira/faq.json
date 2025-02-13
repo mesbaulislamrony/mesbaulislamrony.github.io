@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "How can I track my order?",
+            "content": "You can track your order by visiting the 'Order Tracking' page and entering your order ID."
+        },
+        {
+            "id": 2,
+            "title": "How can I cancel my order?",
+            "content": "You can cancel your order by visiting the 'Order Tracking' page and entering your order ID."
+        },
+        {
+            "id": 3,
+            "title": "How can I return my order?",
+            "content": "You can return your order by visiting the 'Order Tracking' page and entering your order ID."
+        },
+        {
+            "id": 4,
+            "title": "How can I contact customer service?",
+            "content": "You can contact customer service by visiting the 'Contact Us' page or by emailing us at [email protected]."
+        }
+    ]
+}

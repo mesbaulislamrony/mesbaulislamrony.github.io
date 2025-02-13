@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "order_id": "#123",
+            "total": 3.5,
+            "datetime": "05 Dec 2024 10:00 AM"
+        },
+        {
+            "id": 2,
+            "order_id": "#124",
+            "total": 2,
+            "datetime": "08 Dec 2024 10:00 PM"
+        },
+        {
+            "id": 3,
+            "order_id": "#125",
+            "total": 2.5,
+            "datetime": "15 Dec 2024 05:30 PM"
+        }
+    ]
+}

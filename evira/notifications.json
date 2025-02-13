@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "message": "30% off on all products",
+            "datetime": "three days ago"
+        },
+        {
+            "id": 2,
+            "message": "Free shipping on all orders over $50",
+            "datetime": "two days ago"
+        },
+        {
+            "id": 3,
+            "message": "New product: Fresh Strawberries",
+            "datetime": "yesterday"
+        },
+        {
+            "id": 4,
+            "message": "20% off on all fruits",
+            "datetime": "today"
+        },
+        {
+            "id": 5,
+            "message": "New product: Fresh Apples",
+            "datetime": "today"
+        }
+    ]
+}

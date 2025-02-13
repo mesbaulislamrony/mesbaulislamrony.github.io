@@ -3,14 +3,13 @@
         {
             "title": "Fresh Apples",
             "description": "Crisp and juicy apples, perfect for snacking.",
-            "category": "Fruits",
+            "categories": [1],
             "brand": "Farm Fresh",
             "unit": "1 kg",
             "price": 3.5,
             "stock": 100,
-            "images": [
-                "https://example.com/images/apples.jpg"
-            ],
+            "sold": 50,
+            "images": "https://example.com/images/apples.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -33,14 +32,13 @@
         {
             "title": "Bananas",
             "description": "Ripe bananas, great for smoothies or on-the-go snacking.",
-            "category": "Fruits",
+            "categories": [1],
             "brand": "Tropical",
             "unit": "1.5 kg",
             "price": 2,
             "stock": 150,
-            "images": [
-                "https://example.com/images/bananas.jpg"
-            ],
+            "sold": 100,
+            "images": "https://example.com/images/bananas.jpg",
             "rating": 2.5,
             "reviews": [
                 {
@@ -63,14 +61,13 @@
         {
             "title": "Oranges",
             "description": "Juicy oranges, perfect for snacking or juicing.",
-            "category": "Fruits",
+            "categories": [1],
             "brand": "Sunset",
             "unit": "500 gm",
             "price": 2.5,
             "stock": 120,
-            "images": [
-                "https://example.com/images/oranges.jpg"
-            ],
+            "sold": 80,
+            "images": "https://example.com/images/oranges.jpg",
             "rating": 3.5,
             "reviews": [
                 {
@@ -93,14 +90,13 @@
         {
             "title": "Grapes",
             "description": "Sweet grapes, perfect for snacking or making wine.",
-            "category": "Fruits",
+            "categories": [1],
             "brand": "Vineyard",
             "unit": "2 kg",
             "price": 3,
             "stock": 90,
-            "images": [
-                "https://example.com/images/grapes.jpg"
-            ],
+            "sold": 60,
+            "images": "https://example.com/images/grapes.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -123,14 +119,13 @@
         {
             "title": "Strawberries",
             "description": "Sweet strawberries, perfect for snacking or baking.",
-            "category": "Fruits",
+            "categories": [1],
             "brand": "Berry Farm",
             "unit": "1 kg",
             "price": 2.8,
             "stock": 110,
-            "images": [
-                "https://example.com/images/strawberries.jpg"
-            ],
+            "sold": 70,
+            "images": "https://example.com/images/strawberries.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -153,14 +148,13 @@
         {
             "title": "Pineapples",
             "description": "Juicy pineapples, perfect for snacking or cooking.",
-            "category": "Fruits",
+            "categories": [1],
             "brand": "Tropical",
             "unit": "1 kg",
             "price": 3.2,
             "stock": 80,
-            "images": [
-                "https://example.com/images/pineapples.jpg"
-            ],
+            "sold": 50,
+            "images": "https://example.com/images/pineapples.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -183,14 +177,13 @@
         {
             "title": "Watermelon",
             "description": "Refreshing watermelon, perfect for hot summer days.",
-            "category": "Fruits",
+            "categories": [1],
             "brand": "Melon Farm",
             "unit": "1 kg",
             "price": 2.5,
             "stock": 100,
-            "images": [
-                "https://example.com/images/watermelon.jpg"
-            ],
+            "sold": 80,
+            "images": "https://example.com/images/watermelon.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -213,14 +206,13 @@
         {
             "title": "Carrots",
             "description": "Crunchy carrots, ideal for salads and snacks.",
-            "category": "Vegetables",
+            "categories": [2],
             "brand": "Green Valley",
             "unit": "1 kg",
             "price": 1.5,
             "stock": 200,
-            "images": [
-                "https://example.com/images/carrots.jpg"
-            ],
+            "sold": 150,
+            "images": "https://example.com/images/carrots.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -243,14 +235,13 @@
         {
             "title": "Broccoli",
             "description": "Fresh broccoli, perfect for steaming or roasting.",
-            "category": "Vegetables",
+            "categories": [2],
             "brand": "Green Earth",
             "unit": "1 kg",
             "price": 2.2,
             "stock": 180,
-            "images": [
-                "https://example.com/images/broccoli.jpg"
-            ],
+            "sold": 120,
+            "images": "https://example.com/images/broccoli.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -273,14 +264,13 @@
         {
             "title": "Cauliflower",
             "description": "Fresh cauliflower, perfect for roasting or sautéing.",
-            "category": "Vegetables",
+            "categories": [2],
             "brand": "Green Valley",
             "unit": "1 kg",
             "price": 2,
             "stock": 160,
-            "images": [
-                "https://example.com/images/cauliflower.jpg"
-            ],
+            "sold": 100,
+            "images": "https://example.com/images/cauliflower.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -303,14 +293,13 @@
         {
             "title": "Beets",
             "description": "Sweet beets, perfect for salads or roasting.",
-            "category": "Vegetables",
+            "categories": [2],
             "brand": "Root Farm",
             "unit": "1 kg",
             "price": 2.5,
             "stock": 120,
-            "images": [
-                "https://example.com/images/beets.jpg"
-            ],
+            "sold": 80,
+            "images": "https://example.com/images/beets.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -333,14 +322,13 @@
         {
             "title": "Milk",
             "description": "Fresh whole milk, perfect for cooking and drinking.",
-            "category": "Dairy",
+            "categories": [3],
             "brand": "Dairy Farm",
             "unit": "1 L",
             "price": 1.2,
             "stock": 80,
-            "images": [
-                "https://example.com/images/milk.jpg"
-            ],
+            "sold": 60,
+            "images": "https://example.com/images/milk.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -363,14 +351,13 @@
         {
             "title": "Yogurt",
             "description": "Fresh yogurt, perfect for snacking or cooking.",
-            "category": "Dairy",
+            "categories": [3],
             "brand": "Yogurt Delight",
             "unit": "1 kg",
             "price": 2.5,
             "stock": 100,
-            "images": [
-                "https://example.com/images/yogurt.jpg"
-            ],
+            "sold": 80,
+            "images": "https://example.com/images/yogurt.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -393,14 +380,13 @@
         {
             "title": "Cheese",
             "description": "Fresh cheese, perfect for snacking or cooking.",
-            "category": "Dairy",
+            "categories": [3],
             "brand": "Cheese Factory",
             "unit": "1 kg",
             "price": 3.5,
             "stock": 120,
-            "images": [
-                "https://example.com/images/cheese.jpg"
-            ],
+            "sold": 100,
+            "images": "https://example.com/images/cheese.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -423,14 +409,13 @@
         {
             "title": "Butter",
             "description": "Fresh butter, perfect for cooking or baking.",
-            "category": "Dairy",
+            "categories": [3],
             "brand": "Dairy Farm",
             "unit": "1 kg",
             "price": 2.8,
             "stock": 90,
-            "images": [
-                "https://example.com/images/butter.jpg"
-            ],
+            "sold": 70,
+            "images": "https://example.com/images/butter.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -453,14 +438,13 @@
         {
             "title": "Chicken Breast",
             "description": "Boneless chicken breast, perfect for grilling or baking.",
-            "category": "Meat",
+            "categories": [4],
             "brand": "Meat Masters",
             "unit": "1 kg",
             "price": 8,
             "stock": 50,
-            "images": [
-                "https://example.com/images/chicken.jpg"
-            ],
+            "sold": 30,
+            "images": "https://example.com/images/chicken.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -483,14 +467,13 @@
         {
             "title": "Ground Beef",
             "description": "Fresh ground beef, perfect for cooking or grilling.",
-            "category": "Meat",
+            "categories": [4],
             "brand": "Beef Factory",
             "unit": "1 kg",
             "price": 6,
             "stock": 80,
-            "images": [
-                "https://example.com/images/beef.jpg"
-            ],
+            "sold": 50,
+            "images": "https://example.com/images/beef.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -513,14 +496,13 @@
         {
             "title": "Pork Chops",
             "description": "Thick pork chops, perfect for grilling or pan-frying.",
-            "category": "Meat",
+            "categories": [4],
             "brand": "Pork Delight",
             "unit": "1 kg",
             "price": 7,
             "stock": 60,
-            "images": [
-                "https://example.com/images/pork.jpg"
-            ],
+            "sold": 40,
+            "images": "https://example.com/images/pork.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -543,14 +525,13 @@
         {
             "title": "Bacon",
             "description": "Crispy bacon, perfect for breakfast or snacking.",
-            "category": "Meat",
+            "categories": [4],
             "brand": "Meat Masters",
             "unit": "1 kg",
             "price": 5,
             "stock": 70,
-            "images": [
-                "https://example.com/images/bacon.jpg"
-            ],
+            "sold": 50,
+            "images": "https://example.com/images/bacon.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -573,14 +554,13 @@
         {
             "title": "Whole Wheat Bread",
             "description": "Nutritious whole wheat bread, perfect for sandwiches.",
-            "category": "Bakery",
+            "categories": [5],
             "brand": "Bakery Delight",
             "unit": "1 loaf",
             "price": 2.5,
             "stock": 70,
-            "images": [
-                "https://example.com/images/bread.jpg"
-            ],
+            "sold": 50,
+            "images": "https://example.com/images/bread.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -603,14 +583,13 @@
         {
             "title": "Croissants",
             "description": "Flaky croissants, perfect for breakfast or snacks.",
-            "category": "Bakery",
+            "categories": [5],
             "brand": "Bakery Delight",
             "unit": "25 piece",
             "price": 1.5,
             "stock": 100,
-            "images": [
-                "https://example.com/images/croissants.jpg"
-            ],
+            "sold": 80,
+            "images": "https://example.com/images/croissants.jpg",
             "rating": 4.5,
             "reviews": [
                 {
@@ -633,14 +612,13 @@
         {
             "title": "Muffins",
             "description": "Fresh muffins, perfect for breakfast or snacking.",
-            "category": "Bakery",
+            "categories": [5],
             "brand": "Bakery Delight",
             "unit": "10 piece",
             "price": 2,
             "stock": 80,
-            "images": [
-                "https://example.com/images/muffins.jpg"
-            ],
+            "sold": 60,
+            "images": "https://example.com/images/muffins.jpg",
             "rating": 4.5,
             "reviews": [
                 {

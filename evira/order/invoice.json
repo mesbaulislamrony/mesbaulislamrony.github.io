@@ -1,0 +1,40 @@
+{
+    "data": {
+        "id": 1,
+        "order_id": "#123",
+        "transaction_id": "#123",
+        "payment_method": "Credit Card",
+        "datetime": "05 Dec 2024 10:00 AM",
+        "image": "https://example.com/images/credit_card.jpg",
+        "orders": [
+            {
+                "id": 1,
+                "title": "Fresh Apples",
+                "description": "1 kg | color: red | size: 1 kg",
+                "price": 3.5,
+                "qty": 2,
+                "images": "https://example.com/images/apples.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Bananas",
+                "description": "1.5 kg | color: yellow | size: 1.5 kg",
+                "price": 2,
+                "qty": 3,
+                "images": "https://example.com/images/bananas.jpg"
+            },
+            {
+                "id": 3,
+                "title": "Oranges",
+                "description": "500 gm | color: orange | size: 500 gm",
+                "price": 2.5,
+                "qty": 2,
+                "images": "https://example.com/images/oranges.jpg"
+            }
+        ],
+        "total": 15.5,
+        "shipping": 5.0,
+        "discount": 0.0,
+        "grand_total": 20.5
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "id": 1,
+        "title": "Fresh Apples",
+        "description": "Crisp and juicy apples, perfect for snacking.",
+        "brand": "Farm Fresh",
+        "unit": "1 kg",
+        "price": 3.5,
+        "stock": 100,
+        "sold": 50,
+        "images": [
+            "https://example.com/images/apples.jpg",
+            "https://example.com/images/apples.jpg",
+            "https://example.com/images/apples.jpg"
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "customer": {
+                    "id": 1,
+                    "name": "John Doe",
+                    "image": "https://example.com/images/user.jpg"
+                },
+                "review": "Best apples I've ever tasted!",
+                "rating": 5,
+                "datetime": "two days ago",
+                "like": true,
+                "likes": 10
+            },
+            {
+                "customer": {
+                    "id": 2,
+                    "name": "Jane Smith",
+                    "image": "https://example.com/images/user.jpg"
+                },
+                "review": "Very fresh and sweet.",
+                "rating": 4,
+                "datetime": "ten days ago",
+                "like": false,
+                "likes": 50
+            },
+            {
+                "customer": {
+                    "id": 3,
+                    "name": "Bob Johnson",
+                    "image": "https://example.com/images/user.jpg"
+                },
+                "review": "Good value for money.",
+                "rating": 4,
+                "datetime": "one month days ago",
+                "like": false,
+                "likes": 25
+            }
+        ],
+        "attributes": [
+            {
+                "name": "Color",
+                "value": ["Red", "Green", "Blue"]
+            },
+            {
+                "name": "Size",
+                "value": ["1 kg", "2 kg", "3 kg"]
+            }
+        ]
+    }
+}

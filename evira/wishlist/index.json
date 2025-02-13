@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Fresh Apples",
+            "description": "Crisp and juicy apples, perfect for snacking.",
+            "unit": "1 kg",
+            "price": 3.5,
+            "images": "https://example.com/images/apples.jpg",
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "title": "Bananas",
+            "description": "Ripe bananas, great for smoothies or on-the-go snacking.",
+            "unit": "1.5 kg",
+            "price": 2,
+            "images": "https://example.com/images/bananas.jpg",
+            "rating": 2.5
+        },
+        {
+            "id": 3,
+            "title": "Watermelon",
+            "description": "Refreshing watermelon, perfect for hot summer days.",
+            "unit": "1 kg",
+            "price": 2.5,
+            "images": "https://example.com/images/watermelon.jpg",
+            "rating": 4.5
+        }
+    ]
+}

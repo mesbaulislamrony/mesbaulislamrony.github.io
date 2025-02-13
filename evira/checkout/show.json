@@ -1,0 +1,62 @@
+{
+    "data": {
+        "id": 1,
+        "datetime": "2023-07-01T10:00:00",
+        "status": "Pending",
+        "customer": {
+            "id": 1,
+            "name": "John Doe",
+            "contact_number": "123-456-7890",
+            "address": "123 Main St, Anytown, USA 12345"
+        },
+        "shipping_address": {
+            "name": "John Doe",
+            "contact_number": "123-456-7890",
+            "address": "123 Main St, Anytown, USA 12345"
+        },
+        "shipping_method": {
+            "name": "Standard Shipping",
+            "description": "Standard shipping method"
+        },
+        "promo_codes": [
+            {
+                "code": "FRESH10",
+                "discount": 10.0
+            },
+            {
+                "code": "FRESH20",
+                "discount": 20.0
+            }
+        ],
+        "products": [
+            {
+                "id": 1,
+                "title": "Fresh Apples",
+                "description": "1 kg | color: red | size: 1 kg",
+                "price": 3.5,
+                "qty": 2,
+                "images": "https://example.com/images/apples.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Bananas",
+                "description": "1.5 kg | color: yellow | size: 1.5 kg",
+                "price": 2,
+                "qty": 3,
+                "images": "https://example.com/images/bananas.jpg"
+            },
+            {
+                "id": 3,
+                "title": "Oranges",
+                "description": "500 gm | color: orange | size: 500 gm",
+                "price": 2.5,
+                "qty": 2,
+                "images": "https://example.com/images/oranges.jpg"
+            }
+        ],
+        "total": 15.5,
+        "shipping": 5.0,
+        "discount": 0.0,
+        "grand_total": 20.5
+    }
+}

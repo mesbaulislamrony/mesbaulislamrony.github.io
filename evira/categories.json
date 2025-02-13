@@ -3,102 +3,141 @@
         {
             "id": 1,
             "name": "Fruits",
-            "image": "https://example.com/images/fruits.jpg"
+            "image": "https://example.com/images/fruits.jpg",
+            "order": 1,
+            "popular": true
         },
         {
             "id": 2,
             "name": "Vegetables",
-            "image": "https://example.com/images/vegetables.jpg"
+            "image": "https://example.com/images/vegetables.jpg",
+            "order": 2,
+            "popular": true
         },
         {
             "id": 3,
             "name": "Dairy",
-            "image": "https://example.com/images/dairy.jpg"
+            "image": "https://example.com/images/dairy.jpg",
+            "order": 3,
+            "popular": true
         },
         {
             "id": 4,
             "name": "Meat",
-            "image": "https://example.com/images/meat.jpg"
+            "image": "https://example.com/images/meat.jpg",
+            "order": 4,
+            "popular": true
         },
         {
             "id": 5,
             "name": "Bakery",
-            "image": "https://example.com/images/bakery.jpg"
+            "image": "https://example.com/images/bakery.jpg",
+            "order": 5,
+            "popular": true
         },
         {
             "id": 6,
             "name": "Snacks",
-            "image": "https://example.com/images/snacks.jpg"
+            "image": "https://example.com/images/snacks.jpg",
+            "order": 6,
+            "popular": false
         },
         {
             "id": 7,
             "name": "Beverages",
-            "image": "https://example.com/images/beverages.jpg"
+            "image": "https://example.com/images/beverages.jpg",
+            "order": 7,
+            "popular": false
         },
         {
             "id": 8,
             "name": "Frozen Foods",
-            "image": "https://example.com/images/frozen_foods.jpg"
+            "image": "https://example.com/images/frozen_foods.jpg",
+            "order": 8
         },
         {
             "id": 9,
             "name": "Canned Goods",
-            "image": "https://example.com/images/canned_goods.jpg"
+            "image": "https://example.com/images/canned_goods.jpg",
+            "order": 9,
+            "popular": false
         },
         {
             "id": 10,
             "name": "Grains",
-            "image": "https://example.com/images/grains.jpg"
+            "image": "https://example.com/images/grains.jpg",
+            "order": 10,
+            "popular": false
         },
         {
             "id": 11,
             "name": "Spices",
-            "image": "https://example.com/images/spices.jpg"
+            "image": "https://example.com/images/spices.jpg",
+            "order": 11,
+            "popular": false
         },
         {
             "id": 12,
             "name": "Condiments",
-            "image": "https://example.com/images/condiments.jpg"
+            "image": "https://example.com/images/condiments.jpg",
+            "order": 12,
+            "popular": false
         },
         {
             "id": 13,
             "name": "Pasta",
-            "image": "https://example.com/images/pasta.jpg"
+            "image": "https://example.com/images/pasta.jpg",
+            "order": 13,
+            "popular": false
         },
         {
             "id": 14,
             "name": "Breakfast Foods",
-            "image": "https://example.com/images/breakfast_foods.jpg"
+            "image": "https://example.com/images/breakfast_foods.jpg",
+            "order": 14,
+            "popular": false
         },
         {
             "id": 15,
             "name": "Organic Products",
-            "image": "https://example.com/images/organic_products.jpg"
+            "image": "https://example.com/images/organic_products.jpg",
+            "order": 15,
+            "popular": false
         },
         {
             "id": 16,
             "name": "Baby Products",
-            "image": "https://example.com/images/baby_products.jpg"
+            "image": "https://example.com/images/baby_products.jpg",
+            "order": 16,
+            "popular": false
         },
         {
             "id": 17,
             "name": "Personal Care",
-            "image": "https://example.com/images/personal_care.jpg"
+            "image": "https://example.com/images/personal_care.jpg",
+            "order": 17,
+            "popular": false
         },
         {
             "id": 18,
             "name": "Cleaning Supplies",
-            "image": "https://example.com/images/cleaning_supplies.jpg"
+            "image": "https://example.com/images/cleaning_supplies.jpg",
+            "order": 18,
+            "popular": false
         },
         {
             "id": 19,
             "name": "Pet Supplies",
-            "image": "https://example.com/images/pet_supplies.jpg"
+            "image": "https://example.com/images/pet_supplies.jpg",
+            "order": 19,
+            "popular": false
         },
         {
             "id": 20,
             "name": "Health Foods",
-            "image": "https://example.com/images/health_foods.jpg"
+            "image": "https://example.com/images/health_foods.jpg",
+            "order": 20,
+            "popular": false
         }
     ]
 }

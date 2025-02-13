@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Privacy Policy",
+            "content": "We are committed to the protection of your privacy. This privacy policy explains how we collect, use, and disclose your information when you use our website."
+        },
+        {
+            "id": 2,
+            "title": "Cookies",
+            "content": "We use cookies to improve user experience. You can choose to accept or decline cookies. However, declineing cookies may prevent you from taking full advantage of the website."
+        },
+        {
+            "id": 3,
+            "title": "Legal",
+            "content": "We are committed to the protection of your privacy. This privacy policy explains how we collect, use, and disclose your information when you use our website."
+        },
+        {
+            "id": 4,
+            "title": "Contact Us",
+            "content": "If you have any questions or concerns about our privacy policy, please contact us at [email protected]."
+        }
+    ]
+}

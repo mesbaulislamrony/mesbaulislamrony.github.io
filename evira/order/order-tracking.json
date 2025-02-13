@@ -1,0 +1,24 @@
+{
+    "data": {
+        "id": 3,
+        "title": "Oranges",
+        "description": "500 gm | color: orange | size: 500 gm",
+        "price": 2.5,
+        "qty": 2,
+        "images": "https://example.com/images/oranges.jpg",
+        "history": [
+            {
+                "title": "Order in progress",
+                "datetime": "14 Oct, 2024 10:00 AM"
+            },
+            {
+                "title": "Shipping",
+                "datetime": "20 Oct, 2024 08:00 AM"
+            },
+            {
+                "title": "Order completed",
+                "datetime": "21 Oct, 2024 11:00 AM"
+            }
+        ]
+    }
+}

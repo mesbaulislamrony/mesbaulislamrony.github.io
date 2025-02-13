@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "code": "SUMMER_DISCOUNT",
+            "description": "10% off on all products during the summer season.",
+            "expire_on": "Exprire on 03 September 2024 05:00 PM"
+        },
+        {
+            "id": 2,
+            "code": "WINTER_DISCOUNT",
+            "description": "15% off on all products during the winter season.",
+            "expire_on": "Exprire on 31 March 2025 05:00 PM"
+        }
+    ]
+}
