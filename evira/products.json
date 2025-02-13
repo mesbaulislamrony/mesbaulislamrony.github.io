@@ -1,26 +1,30 @@
 {
-    "products": [
+    "data": [
         {
             "title": "Fresh Apples",
             "description": "Crisp and juicy apples, perfect for snacking.",
             "category": "Fruits",
             "brand": "Farm Fresh",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 3.5,
             "stock": 100,
             "images": [
                 "https://example.com/images/apples.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Best apples I've ever tasted!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Very fresh and sweet.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Good value for money.",
                     "rating": 4
                 }
@@ -31,22 +35,26 @@
             "description": "Ripe bananas, great for smoothies or on-the-go snacking.",
             "category": "Fruits",
             "brand": "Tropical",
-            "unit": "kg",
+            "unit": "1.5 kg",
             "price": 2,
             "stock": 150,
             "images": [
                 "https://example.com/images/bananas.jpg"
             ],
+            "rating": 2.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Perfectly ripe!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for breakfast.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "A bit too soft for my taste.",
                     "rating": 3
                 }
@@ -57,22 +65,26 @@
             "description": "Juicy oranges, perfect for snacking or juicing.",
             "category": "Fruits",
             "brand": "Sunset",
-            "unit": "kg",
+            "unit": "500 gm",
             "price": 2.5,
             "stock": 120,
             "images": [
                 "https://example.com/images/oranges.jpg"
             ],
+            "rating": 3.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very juicy and sweet!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for snacking.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as seedless as I expected.",
                     "rating": 3
                 }
@@ -83,22 +95,26 @@
             "description": "Sweet grapes, perfect for snacking or making wine.",
             "category": "Fruits",
             "brand": "Vineyard",
-            "unit": "kg",
+            "unit": "2 kg",
             "price": 3,
             "stock": 90,
             "images": [
                 "https://example.com/images/grapes.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very sweet and juicy!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for making wine.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as crunchy as I expected.",
                     "rating": 3
                 }
@@ -109,22 +125,26 @@
             "description": "Sweet strawberries, perfect for snacking or baking.",
             "category": "Fruits",
             "brand": "Berry Farm",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 2.8,
             "stock": 110,
             "images": [
                 "https://example.com/images/strawberries.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very sweet and flavorful!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for baking.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as fresh as I expected.",
                     "rating": 3
                 }
@@ -135,22 +155,26 @@
             "description": "Juicy pineapples, perfect for snacking or cooking.",
             "category": "Fruits",
             "brand": "Tropical",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 3.2,
             "stock": 80,
             "images": [
                 "https://example.com/images/pineapples.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very sweet and tangy!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for smoothies.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as fresh as I expected.",
                     "rating": 3
                 }
@@ -161,22 +185,26 @@
             "description": "Refreshing watermelon, perfect for hot summer days.",
             "category": "Fruits",
             "brand": "Melon Farm",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 2.5,
             "stock": 100,
             "images": [
                 "https://example.com/images/watermelon.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very refreshing and sweet!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for picnics.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as juicy as I expected.",
                     "rating": 3
                 }
@@ -187,22 +215,26 @@
             "description": "Crunchy carrots, ideal for salads and snacks.",
             "category": "Vegetables",
             "brand": "Green Valley",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 1.5,
             "stock": 200,
             "images": [
                 "https://example.com/images/carrots.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very crunchy and fresh!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for juicing.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as sweet as I expected.",
                     "rating": 3
                 }
@@ -213,22 +245,26 @@
             "description": "Fresh broccoli, perfect for steaming or roasting.",
             "category": "Vegetables",
             "brand": "Green Earth",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 2.2,
             "stock": 180,
             "images": [
                 "https://example.com/images/broccoli.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very fresh and nutritious!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for steaming.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as tender as I expected.",
                     "rating": 3
                 }
@@ -239,22 +275,26 @@
             "description": "Fresh cauliflower, perfect for roasting or sautéing.",
             "category": "Vegetables",
             "brand": "Green Valley",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 2,
             "stock": 160,
             "images": [
                 "https://example.com/images/cauliflower.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very fresh and versatile!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for roasting.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as flavorful as I expected.",
                     "rating": 3
                 }
@@ -265,22 +305,26 @@
             "description": "Sweet beets, perfect for salads or roasting.",
             "category": "Vegetables",
             "brand": "Root Farm",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 2.5,
             "stock": 120,
             "images": [
                 "https://example.com/images/beets.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very sweet and earthy!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for salads.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as tender as I expected.",
                     "rating": 3
                 }
@@ -291,22 +335,26 @@
             "description": "Fresh whole milk, perfect for cooking and drinking.",
             "category": "Dairy",
             "brand": "Dairy Farm",
-            "unit": "L",
+            "unit": "1 L",
             "price": 1.2,
             "stock": 80,
             "images": [
                 "https://example.com/images/milk.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Rich and creamy!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for my coffee.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "A bit too thick for my liking.",
                     "rating": 3
                 }
@@ -317,22 +365,26 @@
             "description": "Fresh yogurt, perfect for snacking or cooking.",
             "category": "Dairy",
             "brand": "Yogurt Delight",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 2.5,
             "stock": 100,
             "images": [
                 "https://example.com/images/yogurt.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very creamy and delicious!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for snacking.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as tangy as I expected.",
                     "rating": 3
                 }
@@ -343,22 +395,26 @@
             "description": "Fresh cheese, perfect for snacking or cooking.",
             "category": "Dairy",
             "brand": "Cheese Factory",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 3.5,
             "stock": 120,
             "images": [
                 "https://example.com/images/cheese.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very rich and flavorful!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for cooking.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as smooth as I expected.",
                     "rating": 3
                 }
@@ -369,22 +425,26 @@
             "description": "Fresh butter, perfect for cooking or baking.",
             "category": "Dairy",
             "brand": "Dairy Farm",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 2.8,
             "stock": 90,
             "images": [
                 "https://example.com/images/butter.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very rich and creamy!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for baking.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as fresh as I expected.",
                     "rating": 3
                 }
@@ -395,22 +455,26 @@
             "description": "Boneless chicken breast, perfect for grilling or baking.",
             "category": "Meat",
             "brand": "Meat Masters",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 8,
             "stock": 50,
             "images": [
                 "https://example.com/images/chicken.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Tender and juicy!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for meal prep.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Could use more seasoning.",
                     "rating": 3
                 }
@@ -421,22 +485,26 @@
             "description": "Fresh ground beef, perfect for cooking or grilling.",
             "category": "Meat",
             "brand": "Beef Factory",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 6,
             "stock": 80,
             "images": [
                 "https://example.com/images/beef.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very flavorful and tender!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great for cooking.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as lean as I expected.",
                     "rating": 3
                 }
@@ -447,22 +515,26 @@
             "description": "Thick pork chops, perfect for grilling or pan-frying.",
             "category": "Meat",
             "brand": "Pork Delight",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 7,
             "stock": 60,
             "images": [
                 "https://example.com/images/pork.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "Jane Smith",
                     "review": "Very juicy and flavorful!",
                     "rating": 5
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Great for grilling.",
                     "rating": 4
                 },
                 {
+                    "name": "Alice Brown",
                     "review": "Not as tender as I expected.",
                     "rating": 3
                 }
@@ -473,22 +545,26 @@
             "description": "Crispy bacon, perfect for breakfast or snacking.",
             "category": "Meat",
             "brand": "Meat Masters",
-            "unit": "kg",
+            "unit": "1 kg",
             "price": 5,
             "stock": 70,
             "images": [
                 "https://example.com/images/bacon.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "Jane Smith",
                     "review": "Very crispy and delicious!",
                     "rating": 5
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Great for breakfast.",
                     "rating": 4
                 },
                 {
+                    "name": "Alice Brown",
                     "review": "Not as smoky as I expected.",
                     "rating": 3
                 }
@@ -499,22 +575,26 @@
             "description": "Nutritious whole wheat bread, perfect for sandwiches.",
             "category": "Bakery",
             "brand": "Bakery Delight",
-            "unit": "loaf",
+            "unit": "1 loaf",
             "price": 2.5,
             "stock": 70,
             "images": [
                 "https://example.com/images/bread.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "Jane Smith",
                     "review": "Very fresh and healthy!",
                     "rating": 5
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Great for toast.",
                     "rating": 4
                 },
                 {
+                    "name": "Alice Brown",
                     "review": "A bit dense for my taste.",
                     "rating": 3
                 }
@@ -525,22 +605,26 @@
             "description": "Flaky croissants, perfect for breakfast or snacks.",
             "category": "Bakery",
             "brand": "Bakery Delight",
-            "unit": "piece",
+            "unit": "25 piece",
             "price": 1.5,
             "stock": 100,
             "images": [
                 "https://example.com/images/croissants.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "John Doe",
                     "review": "Very flaky and delicious!",
                     "rating": 5
                 },
                 {
+                    "name": "Jane Smith",
                     "review": "Great with coffee.",
                     "rating": 4
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Not as buttery as I expected.",
                     "rating": 3
                 }
@@ -551,22 +635,26 @@
             "description": "Fresh muffins, perfect for breakfast or snacking.",
             "category": "Bakery",
             "brand": "Bakery Delight",
-            "unit": "piece",
+            "unit": "10 piece",
             "price": 2,
             "stock": 80,
             "images": [
                 "https://example.com/images/muffins.jpg"
             ],
+            "rating": 4.5,
             "reviews": [
                 {
+                    "name": "Jane Smith",
                     "review": "Very fresh and delicious!",
                     "rating": 5
                 },
                 {
+                    "name": "Bob Johnson",
                     "review": "Great for breakfast.",
                     "rating": 4
                 },
                 {
+                    "name": "Alice Brown",
                     "review": "Not as moist as I expected.",
                     "rating": 3
                 }

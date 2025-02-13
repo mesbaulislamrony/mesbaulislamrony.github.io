@@ -1,4 +1,6 @@
 {
-    "message": "Your account has been created successfully",
-    "id": 1
+    "data": {
+        "message": "Your account has been created successfully",
+        "id": 1
+    }
 }
